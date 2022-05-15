@@ -10,7 +10,17 @@ def print_hi(name):
 
 
 # Press the green button in the gutter to run the script.
-if __name__ == '__main__':
+if __naasdadame__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
+sadasdas dasd ad a
+
+asdas d
+assert das
+ das
+ dsa
+ d
+ asd
+ assert
